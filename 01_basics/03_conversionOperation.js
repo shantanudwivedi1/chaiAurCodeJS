@@ -61,5 +61,58 @@ console.log(valInNumber1); // shows zero
 let score4 = undefined;
 
 console.log(typeof score4);
-console.log()
+console.log(score4);
+
+let valInnNumber = Number(score4);
+console.log(typeof valInnNumber);
+console.log(valInnNumber);
+
+
+
+
+
+let score5 = true;
+
+console.log(typeof score5);
+console.log(score5);
+
+let valInnnNumber = Number(score5);
+console.log(typeof valInnnNumber);
+console.log(valInnnNumber);
+
+
+
+// short summary
+// "33" => 33
+// "33abc" => NaN
+// "true" => 1; false => 0
+
+
+
+
+let isLoggedIn = 1;
+
+let booleanIsLoggedIn = Boolean(isLoggedIn);
+console.log(booleanIsLoggedIn);
+
+// 1 => true; 0=> false
+// "" => false
+// "shantanu" => true; 2 or any other number => true;
+
+
+
+
+let someNumber = 33;
+console.log(typeof someNumber); // number
+
+
+let stringNumber = String(someNumber)
+console.log(stringNumber); // it show 33  
+console.log(typeof stringNumber);  // shows 33 is a string
+
+
+
+
+
+
 
