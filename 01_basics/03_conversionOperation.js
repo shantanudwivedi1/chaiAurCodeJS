@@ -110,7 +110,7 @@ let stringNumber = String(someNumber)
 console.log(stringNumber); // it show 33  
 console.log(typeof stringNumber);  // shows 33 is a string
 
-
+// Thats all about conversion of databases
 
 
 
